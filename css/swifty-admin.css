@@ -1,0 +1,152 @@
+@charset "UTF-8";
+.swifty-wrapper {
+  z-index: 10;
+}
+.swifty-content {
+  z-index: 10;
+  position: relative;
+  top: 32px;
+}
+.swifty_content_right {
+  margin-left: 80px;
+}
+.swifty_panel_title_container {
+  position: relative;
+  padding-bottom: 10px;
+  margin-top: -10px;
+}
+.swifty_panel_title_container .swifty_panel_title_strike {
+  height: 24px;
+  border-bottom: 2px solid #e2e2e2;
+  position: absolute;
+  top: 0;
+  text-align: center;
+  width: 100%;
+}
+.swifty_panel_title_container .swifty_panel_title_pos {
+  height: 32px;
+  position: absolute;
+  top: 0;
+  text-align: center;
+  width: 100%;
+}
+.swifty_panel_title_container .swifty_panel_title_pos .swifty_title {
+  color: #1b7fba;
+  font-size: 17.6px;
+  display: inline-block;
+  height: 32px;
+  padding: 0 8px;
+  background-color: #f1f1f1;
+}
+.swifty_panel_title_container .swifty_panel_title_pos .swifty_title h2 {
+  color: #1b7fba;
+}
+.swifty_back_button {
+  display: -webkit-box;
+  /* OLD - iOS 6-, Safari 3.1-6 */
+  display: -moz-box;
+  /* OLD - Firefox 19- (buggy but mostly works) */
+  display: -ms-flexbox;
+  /* TWEENER - IE 10 */
+  display: -webkit-flex;
+  /* NEW - Chrome */
+  display: flex;
+  /* NEW, Spec - Opera 12.1, Firefox 20+ */
+  -webkit-flex-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  -moz-justify-content: center;
+  -ms-justify-content: center;
+  justify-content: center;
+  -webkit-box-flex: 1;
+  /* OLD - iOS 6-, Safari 3.1-6 */
+  -moz-box-flex: 1;
+  /* OLD - Firefox 19- */
+  -ms-box-flex: 1;
+  -webkit-flex: 1;
+  /* Chrome */
+  -ms-flex: 1;
+  /* IE 10 */
+  flex: 1;
+  /* NEW, Spec - Opera 12.1, Firefox 20+ */
+  width: 64px;
+  height: 64px;
+  padding: 0 !important;
+  font-family: 'swiftysiteui';
+  line-height: 24px;
+  font-size: 24px;
+  float: left;
+  margin: 6px 12px 0 0;
+}
+.swifty_button {
+  display: -webkit-box;
+  /* OLD - iOS 6-, Safari 3.1-6 */
+  display: -moz-box;
+  /* OLD - Firefox 19- (buggy but mostly works) */
+  display: -ms-flexbox;
+  /* TWEENER - IE 10 */
+  display: -webkit-flex;
+  /* NEW - Chrome */
+  display: flex;
+  /* NEW, Spec - Opera 12.1, Firefox 20+ */
+  -webkit-flex-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  -moz-justify-content: center;
+  -ms-justify-content: center;
+  justify-content: center;
+  -webkit-box-flex: 1;
+  /* OLD - iOS 6-, Safari 3.1-6 */
+  -moz-box-flex: 1;
+  /* OLD - Firefox 19- */
+  -ms-box-flex: 1;
+  -webkit-flex: 1;
+  /* Chrome */
+  -ms-flex: 1;
+  /* IE 10 */
+  flex: 1;
+  /* NEW, Spec - Opera 12.1, Firefox 20+ */
+  background-color: #1b7fba;
+  color: white;
+  cursor: pointer;
+}
+.swifty_button .swifty-icon {
+  padding-top: 3px;
+}
+.swifty_button .swifty-icon.dashicons-plus {
+  padding-top: 5px;
+}
+.nav-link {
+  color: black;
+  font-size: 15px;
+  line-height: 16px;
+  display: inline-block;
+  padding: 4px 14px 6px;
+  text-decoration: underline;
+  font-weight: normal;
+  margin: -4px 4px -1px 0;
+}
+.nav-link:hover {
+  color: #1b7fba;
+}
+.nav-link-active {
+  font-weight: bolder;
+}
+.swc_edit_with_swifty {
+  margin-right: 10px !important;
+  color: #55227e !important;
+}
+.swc_edit_with_swifty .wp-media-buttons-icon:before {
+  content: '\e03d' !important;
+  font-family: 'swiftysiteui' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+  color: #55227e !important;
+}

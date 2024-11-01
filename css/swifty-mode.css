@@ -1,0 +1,73 @@
+@charset "UTF-8";
+#backtoblog {
+  display: none;
+}
+body {
+  font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #eeeeee;
+}
+#login h1 {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  width: 100%;
+  margin: auto;
+}
+#login h1 a {
+  display: none;
+}
+#login h1:before {
+  position: absolute;
+  z-index: 2;
+  left: 0%;
+  right: 0%;
+  height: 32px;
+  width: 300px;
+  color: #1b7fba;
+  background-color: #eeeeee;
+  text-align: center;
+  font-weight: initial;
+  margin: auto;
+}
+#login h1:after {
+  content: "";
+  height: 12px;
+  z-index: 1;
+  border-bottom: 2px solid #e2e2e2;
+  position: absolute;
+  left: 0;
+  width: 100%;
+}
+.login form {
+  box-shadow: none;
+  background: #eeeeee;
+}
+.login form .input {
+  font-size: 18px;
+  display: inline;
+  margin: 0px;
+  border: 0;
+}
+.login #nav a {
+  text-decoration: underline;
+}
+#loginform label {
+  padding-bottom: 10px;
+  display: block;
+  font-size: 18px;
+  line-height: 30px;
+}
+div#login {
+  width: 350px;
+}
+#wp-submit {
+  height: 25px;
+  width: 100%;
+  line-height: 24px;
+  background-color: #1b7fba;
+  color: white;
+}
+#nav {
+  float: right;
+  display: inline;
+}

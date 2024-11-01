@@ -1,0 +1,588 @@
+# Translation of SwiftySite in Dutch
+# This file is distributed under the same license as the SwiftySite package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SwiftySite\n"
+"PO-Revision-Date: 2016-11-28 09:03:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+
+#: includes/class-swifty-site-welcome.php:69
+msgid "Preparing"
+msgstr "Aan het voorbereiden"
+
+#: includes/class-swifty-site-welcome.php:70
+msgid "Installing"
+msgstr "Aan het installeren"
+
+#: includes/class-swifty-site-welcome.php:71
+msgid "Updating"
+msgstr "Aan het updaten"
+
+#: includes/class-swifty-site-welcome.php:72
+msgid "Installation of <PLUGIN> failed."
+msgstr "Installatie van <PLUGIN> is mislukt."
+
+#: includes/class-swifty-site-welcome.php:73
+msgid "Update of <PLUGIN> failed."
+msgstr "Update van <PLUGIN> is mislukt."
+
+#: includes/class-swifty-site-welcome.php:74
+msgid "Installation failed."
+msgstr "Installatie is mislukt."
+
+#: includes/class-swifty-site-welcome.php:184
+msgid "Zin om een mooie website te gaan maken?"
+msgstr "Zin om een mooie website te gaan maken?"
+
+#: includes/class-swifty-site-welcome.php:185
+msgid "Welkom bij SwiftySite 3.0!"
+msgstr "Welkom bij SwiftySite 3.0!"
+
+#: includes/class-swifty-site-welcome.php:187
+msgid ""
+"Alles is voor je in gereedheid gebracht. En niets staat je nog in de weg om "
+"snel en gemakkelijk een mooie site in elkaar te gaan zetten. Let's do this!"
+msgstr ""
+"Alles is voor je in gereedheid gebracht. En niets staat je nog in de weg om "
+"snel en gemakkelijk een mooie site in elkaar te gaan zetten. Let's do this!"
+
+#: includes/class-swifty-site-welcome.php:189
+msgid "Begin met de vormgeving van je site"
+msgstr "Begin met de vormgeving van je site"
+
+#: includes/class-swifty-site-welcome.php:192
+msgid "Of ga gewoon naar de homepage"
+msgstr "Of ga gewoon naar de homepage"
+
+#: includes/class-swifty-site-welcome.php:196
+msgid "Are you ready to experience"
+msgstr "Ben je klaar om te beleven"
+
+#: includes/class-swifty-site-welcome.php:197
+msgid "the full joy of SwiftySite?"
+msgstr "de volle fun van SwiftySite?"
+
+#: includes/class-swifty-site-welcome.php:199
+msgid ""
+"We're almost done setting everything up for you, but to wrap this up,<br>we "
+"need your permission to install these amazing free plugins:"
+msgstr ""
+"We zijn bijna klaar met alles klaarmaken voor je, maar om dit af te "
+"ronden<br>hebben we je toestemming nodig om deze gave gratis plugins te "
+"installeren:"
+
+#: includes/class-swifty-site-welcome.php:204
+msgid "Swifty Site Designer (Theme)"
+msgstr "Swifty Site Designer (Theme)"
+
+#: includes/class-swifty-site-welcome.php:205
+msgid "Swifty Page Manager"
+msgstr "Swifty Page Manager"
+
+#: includes/class-swifty-site-welcome.php:207
+msgid "Yoast WordPress Seo"
+msgstr "Yoast WordPress Seo"
+
+#: includes/class-swifty-site-welcome.php:211
+msgid "Swifty Content Creator"
+msgstr "Swifty Content Creator"
+
+#: includes/class-swifty-site-welcome.php:212
+msgid "Fast Secure Contact Form"
+msgstr "Fast Secure Contact Form"
+
+#: includes/class-swifty-site-welcome.php:216
+msgid "Install these required plugins & finish the setup"
+msgstr "Installeer deze vereiste plugins & voltooi de setup"
+
+#: includes/class-swifty-site-welcome.php:226
+msgid "Close"
+msgstr "Sluit"
+
+#: includes/class-swifty-site-welcome.php:228
+msgid "No, thanks. Cancel the setup please."
+msgstr "Nee, bedankt. Breek het installeren af alsjeblieft."
+
+#: includes/class-swifty-site-welcome.php:231
+msgid "Installation was successful"
+msgstr "Installatie was succesvol"
+
+#: includes/class-swifty-site-welcome.php:235
+msgid "Next, let's do some styling"
+msgstr "Nu, laten we wat gaan stylen"
+
+#: includes/class-swifty-site-welcome.php:238
+msgid "Let's just go to the homepage"
+msgstr "Laten we gewoon naar de homepage gaan"
+
+#: includes/class-swifty-site.php:155
+msgid "Your SwiftySite Login"
+msgstr "Jouw SwiftySite Login"
+
+#: includes/class-swifty-site.php:199
+msgid "home"
+msgstr "home"
+
+#: includes/class-swifty-site.php:200
+msgid "welcome"
+msgstr "welkom"
+
+#: includes/class-swifty-site.php:358
+msgid "Site"
+msgstr "Site"
+
+#: includes/class-swifty-site.php:361
+msgid "Required plugins"
+msgstr "Vereiste plugins"
+
+#: includes/class-swifty-site.php:365
+msgid "More Swifty Plugins"
+msgstr "Meer Swifty Plugins"
+
+#: includes/class-swifty-site.php:373 includes/class-swifty-site.php:374
+#: includes/class-swifty-site.php:511
+msgid "Switch to SwiftySite"
+msgstr "Ga naar SwiftySite"
+
+#: includes/class-swifty-site.php:402
+msgid "General"
+msgstr "Algemeen"
+
+#: includes/class-swifty-site.php:436
+msgid "Hide WP mode button"
+msgstr "Verberg WP mode knop"
+
+#: includes/class-swifty-site.php:459
+msgid "Hide the button for switching to WP mode (for non-Admin users)."
+msgstr ""
+"Verberg de knop voor het switchen naar WP mode (voor niet-Admin gebruikers)."
+
+#: includes/class-swifty-site.php:510
+msgid "WordPress mode"
+msgstr "WordPress modus"
+
+#: includes/class-swifty-site.php:563
+msgid ""
+"It seems you are using a browser that is not fully compatible with "
+"SwiftySite.\\n\\nRight now only Chrome, Firefox and Safari (version 9 or "
+"higher) work completely reliable.\\n\\nPlease use one of these browsers te "
+"work on your site.\\n\\n(Ofcourse your visitors can view your site with any "
+"browser on any device.)"
+msgstr ""
+"Het ziet er naar uit dat je een browser gebruikt die niet volledig "
+"compatible is met SwiftySite.\\n\\nOp dit moment werken alleen Chrome, "
+"Firefox en Safari (versie 9 of hoger) volledig betrouwbaar\\n\\nGebruik "
+"alsjeblieft een van deze browsers om aan je site te werken.\\n\\n(Natuurlijk "
+"kunnen je bezoeker wel jouw site bekijken met elke willekeurige browser.)"
+
+#: includes/class-swifty-site.php:592
+msgid "Edit content"
+msgstr "Inhoud bewerken"
+
+#: includes/class-swifty-site.php:595
+msgid "Manage pages"
+msgstr "Pagina's beheren"
+
+#: includes/class-swifty-site.php:598
+msgid "Change design"
+msgstr "Ontwerp aanpassen"
+
+#: includes/class-swifty-site.php:601 includes/class-swifty-site.php:625
+msgid "Log out"
+msgstr "Log uit"
+
+#: includes/class-swifty-site.php:607
+msgid "Switch to WordPress"
+msgstr "Ga naar WordPress"
+
+#: includes/class-swifty-site.php:613
+msgid "Help"
+msgstr "Help"
+
+#: includes/class-swifty-site.php:619
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/class-swifty-site.php:659
+msgid "You do not have sufficient permissions to access this page. KS#56"
+msgstr "Je hebt niet voldoende rechten voor toegang tot deze pagina. KS#56"
+
+#: includes/register-required-plugins.php:78
+msgid "Install Required Plugins"
+msgstr "Installeer Vereiste Plugins"
+
+#: includes/register-required-plugins.php:79
+msgid "Install Plugins"
+msgstr "Installeer Plugins"
+
+#: includes/register-required-plugins.php:80
+msgid "Installing Plugin: %s"
+msgstr "Deze plugin wordt geïnstalleerd: %s"
+
+#: includes/register-required-plugins.php:81
+msgid "Something went wrong with the plugin API."
+msgstr "Er ging iets mis met de plugin API."
+
+#: includes/register-required-plugins.php:82
+msgid "Swifty plugin requires the following plugin: %1$s."
+msgid_plural "Swifty plugin requires the following plugins: %1$s."
+msgstr[0] "Swifty plugin vereist deze plugin: %1$s."
+msgstr[1] "Swifty plugin vereist deze plugins: %1$s."
+
+#: includes/register-required-plugins.php:83
+msgid "Swifty plugin recommends the following plugin: %1$s."
+msgid_plural "Swifty plugin recommends the following plugins: %1$s."
+msgstr[0] "Swifty plugin adviseert deze plugin: %1$s."
+msgstr[1] "Swifty plugin adviseert deze plugins: %1$s."
+
+#: includes/register-required-plugins.php:84
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:174
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Sorry, maar je hebt niet de juiste rechten om de %s plugin te installeren. "
+"Neem contact op met de admin van deze site voor hulp."
+msgstr[1] ""
+"Sorry, maar je hebt niet de juiste rechten om %s plugins te installeren. "
+"Neem contact op met de admin van deze site voor hulp."
+
+#: includes/register-required-plugins.php:85
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:175
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Deze vereiste plugin is momenteel niet actief: %1$s."
+msgstr[1] "Deze vereiste plugins zijn momenteel niet actief: %1$s."
+
+#: includes/register-required-plugins.php:86
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:176
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Deze aanbevolen plugin is momenteel niet actief: %1$s."
+msgstr[1] "Deze aanbevolen plugins zijn momenteel niet actief: %1$s."
+
+#: includes/register-required-plugins.php:87
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:177
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Sorry, maar je hebt niet de juiste rechten om %s plugin te activeren. Neem "
+"contact op met de admin van deze site voor hulp."
+msgstr[1] ""
+"Sorry, maar je hebt niet de juiste rechten om %s plugins te activeren. Neem "
+"contact op met de admin van deze site voor hulp."
+
+#: includes/register-required-plugins.php:88
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with Swifty: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with Swifty: %1$s."
+msgstr[0] ""
+"Deze plugin moet geüpdatet worden naar de laatste nieuwe versie om maximale "
+"compatibiliteit met Swifty te garanderen: %1$s."
+msgstr[1] ""
+"Deze plugins moeten geüpdatet worden naar de laatste nieuwe versie om "
+"maximale compatibiliteit met Swifty te garanderen: %1$s."
+
+#: includes/register-required-plugins.php:89
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:179
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Sorry, maar je hebt niet de juiste rechten om %s plugin te updaten. Neem "
+"contact op met de admin van deze site voor hulp."
+msgstr[1] ""
+"Sorry, maar je hebt niet de juiste rechten om %s plugins te updaten. Neem "
+"contact op met de admin van deze site voor hulp."
+
+#: includes/register-required-plugins.php:90
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:180
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin plugin te installeren"
+msgstr[1] "Begin plugins te installeren"
+
+#: includes/register-required-plugins.php:91
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:181
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin plugin te activeren"
+msgstr[1] "Begin plugins te activeren"
+
+#: includes/register-required-plugins.php:92
+msgid "Return to Required Plugins Installer"
+msgstr "Ga terug naar Vereiste Plugins Installeren"
+
+#: includes/register-required-plugins.php:93
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:184
+msgid "Plugin activated successfully."
+msgstr "Plugin succesvol geactiveerd"
+
+#: includes/register-required-plugins.php:94
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Alle plugins succesvol geïnstalleerd en geactiveerd. %s"
+
+#: lib/swifty_plugin/php/lang.php:7
+msgid "page"
+msgstr "pagina"
+
+#: lib/swifty_plugin/php/lang.php:8
+msgid "topbar"
+msgstr "bovenbalk"
+
+#: lib/swifty_plugin/php/lang.php:9
+msgid "header"
+msgstr "header"
+
+#: lib/swifty_plugin/php/lang.php:10
+msgid "navbar"
+msgstr "navigatiebalk"
+
+#: lib/swifty_plugin/php/lang.php:11
+msgid "sidebar"
+msgstr "zijbalk"
+
+#: lib/swifty_plugin/php/lang.php:12
+msgid "extrasidebar"
+msgstr "extrazijbalk"
+
+#: lib/swifty_plugin/php/lang.php:13
+msgid "footer"
+msgstr "footer"
+
+#: lib/swifty_plugin/php/lang.php:14
+msgid "bottombar"
+msgstr "onderbalk"
+
+#: lib/swifty_plugin/php/lib/swifty-image-functions.php:29
+msgid "Mobile half"
+msgstr "Mobiel half"
+
+#: lib/swifty_plugin/php/lib/swifty-image-functions.php:30
+msgid "Mobile small"
+msgstr "Mobiel smal"
+
+#: lib/swifty_plugin/php/lib/swifty-image-functions.php:31
+msgid "Mobile regular"
+msgstr "Mobiel normaal"
+
+#: lib/swifty_plugin/php/lib/swifty-image-functions.php:32
+msgid "Mobile landscape"
+msgstr "Mobiel landschap"
+
+#: lib/swifty_plugin/php/lib/swifty-image-functions.php:33
+msgid "Desktop smallest"
+msgstr "Desktop kleinste"
+
+#: lib/swifty_plugin/php/lib/swifty-image-functions.php:34
+msgid "Desktop small"
+msgstr "Desktop smal"
+
+#: lib/swifty_plugin/php/lib/swifty-image-functions.php:35
+msgid "Desktop medium"
+msgstr "Desktop medium"
+
+#: lib/swifty_plugin/php/lib/swifty-image-functions.php:36
+msgid "Desktop large"
+msgstr "Desktop groot"
+
+#: lib/swifty_plugin/php/lib/swifty-image-functions.php:37
+msgid "Full HD"
+msgstr "Full HD"
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:172
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dit thema vereist deze plugin: %1$s."
+msgstr[1] "Dit thema vereist deze plugins: %1$s."
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:173
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dit thema adviseert deze plugin: %1$s."
+msgstr[1] "Dit thema adviseert deze plugins: %1$s."
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:178
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"De volgende plugin moet geüdatet worden naar de laatste nieuwe versie voor "
+"maximale compatibiliteit met dit thema. %1$s."
+msgstr[1] ""
+"De volgende plugins moeten geüdatet worden naar de laatste nieuwe versie "
+"voor maximale compatibiliteit met dit thema. %1$s."
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:185
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:1816
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Deze plugin is succesvol geactiveerd: "
+msgstr[1] "Deze plugins zijn succesvol geactiveerd: "
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:187
+msgid "Dismiss this notice"
+msgstr "Negeer deze melding"
+
+#: lib/swifty_plugin/php/lib_swifty_plugin.php:142
+msgid "Licenses"
+msgstr "Licenties"
+
+#: lib/swifty_plugin/php/lib_swifty_plugin.php:337
+msgid "Swifty Plugins"
+msgstr "Swifty Plugins"
+
+#: lib/swifty_plugin/php/lib_swifty_plugin.php:339
+msgid "Active Swifty Plugins"
+msgstr "Actieve Swifty Plugins"
+
+#: lib/swifty_plugin/php/lib_swifty_plugin.php:424
+msgid "Swifty Settings"
+msgstr "Swifty Instellingen"
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:75
+msgid "Activate"
+msgstr "Activeer"
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:86
+msgid "Save Changes"
+msgstr "Bewaar aanpassingen"
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:98
+msgid "License activation of %s"
+msgstr "Licentie activering van %s."
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:99
+msgid "Email"
+msgstr "Email"
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:100
+msgid "License key"
+msgstr "Licentiesleutel"
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:104
+msgid "License deactivation of %s"
+msgstr "Licentie deactivering van %s"
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:105
+msgid "Deactivate License Key"
+msgstr "De-activeer Licentiesleutel"
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:113
+msgid ""
+"Please enter the activation details you received from us, and click the "
+"'Activate' button."
+msgstr ""
+"Voer de activering-details die je van ons hebt gekregen in, en klik dan op "
+"\"Activeer'."
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:190
+msgid "Plugin activated. "
+msgstr "Plugin geactiveerd"
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:271
+msgid ""
+"The license could not be deactivated. Use the License Deactivation tab to "
+"manually deactivate the license before activating a new license."
+msgstr ""
+"De licentie kon niet gede-activeerd worden. Gebruik de Licentie De-activatie "
+"tab om handmatig de licentie te de-activeren voordat je een nieuwe licentie "
+"activeert. "
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:318
+msgid "Plugin license deactivated. "
+msgstr "Plugin licentie gede-activeerd"
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:386
+msgid "Deactivates an API License Key so it can be used on another blog."
+msgstr ""
+"De-activeert een API Licentiesleutel zodat die door een ander blog gebruikt "
+"kan worden."
+
+#: lib/swifty_plugin/php/swifty-licenses/classes/class-swifty-api-manager-update-api-check.php:365
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"De licentiesleutel voor %s is verlopen. Je kunt een licentiesleutel "
+"heractiveren of kopen vanuit je account  <a href=\"%s\" target=\"_blank"
+"\">dashboard</a>."
+
+#: lib/swifty_plugin/php/swifty-licenses/classes/class-swifty-api-manager-update-api-check.php:395
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Het abonnement voor %s is verlopen. Je kunt het abonnement heractiveren "
+"vanuit je account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: lib/swifty_plugin/php/swifty-licenses/classes/class-swifty-api-manager-update-api-check.php:445
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+msgstr ""
+"Een licentiesleutel voor %s kon niet gevonden worden. Misschien ben je "
+"vergeten een licentiesleutel in te geven toen je %s aan het opzetten was of "
+"de sleutel is gede-activeerd in je account.  Je kunt een licentiesleutel "
+"heractiveren of een nieuwe kopen vanuit je account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+
+#: lib/swifty_plugin/php/swifty-licenses/classes/class-swifty-api-manager-update-api-check.php:465
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+"%s is niet geactiveerd. Ga naar de settingspagina en geef daar de "
+"licentiesleutel en het licentie-emailadres in om %s te activeren. "
+
+#: lib/swifty_plugin/php/swifty-licenses/swifty-license-check.php:146
+msgid "Activate %s"
+msgstr "Activeer %s"
+
+#: lib/swifty_plugin/php/swifty-licenses/swifty-license-check.php:147
+msgid "Deactivate %s"
+msgstr "Deactiveer %s"
+
+#: lib/swifty_plugin/php/swifty-licenses/swifty-license-check.php:287
+msgid ""
+"The license key for <b>%s</b> has not been activated, so the plugin is "
+"inactive! %sClick here%s to activate the license key and the plugin."
+msgstr ""
+"De licentie code voor <b>%s</b> is niet geactiveerd, dus de plugin is "
+"inactief! %sKlik hier%s om de licentie code en de plugin te activeren."
+
+#: lib/swifty_plugin/php/swifty-licenses/swifty-license-check.php:307
+msgid ""
+"<b>Warning!</b> You're blocking external requests which means you won't be "
+"able to get %s updates. Please add %s to %s."
+msgstr ""
+"<b>Waarschuwing!</b>Je blokkeert externe requests hetgeen betekent dat je "
+"geen %s updates kunt ontvangen. Voeg alsjebloeft %s toe aan %s."
